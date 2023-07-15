@@ -21,8 +21,9 @@
   justify-content: space-between;
 }
 .logo {
-  width: 200px;
-  border-radius: 125px; 
+  width: 10%px;
+  height: 10%px;
+  border-radius: 50%
   cursor: pointer;
 }
 .navbar ul li {
